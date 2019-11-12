@@ -1,9 +1,9 @@
-#purple_bar{
+#black_bar{
     position:fixed;
     left:0px;
     width: 10px;
     height:1000px;
-    background: #CF54FF;
+    background: #00ff00;
 }
 
 img {
